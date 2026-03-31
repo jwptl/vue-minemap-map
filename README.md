@@ -169,4 +169,4 @@ onMounted(() => {
 
 ## 📄 许可证
 
-MIT
+Copyright (c) 2026 jwpt
